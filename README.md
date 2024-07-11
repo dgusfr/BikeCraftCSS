@@ -5,7 +5,7 @@ Este é um projeto de uma loja web de bicicletas, onde os usuários podem navega
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Sumário
@@ -66,3 +66,15 @@ function displayProducts() {
 }
 
 displayProducts();
+``` 
+
+## Como Usar
+
+`1.` Clone o repositório para sua máquina local.
+
+`2.` Abra o arquivo index.html em seu navegador.
+
+`3.` Navegue pela loja, adicione produtos ao carrinho e finalize a compra.
+
+## Autor
+Desenvolvido no curso de CSS da Origamid®
